@@ -1,0 +1,26 @@
+results/
+summaries*/
+runs/
+*.pkl
+
+# NYC inputs are downloaded from Lei & Ukkusuri's Drive link (see README)
+nyc_small/
+
+# Run logs 
+*.log
+*.out
+nohup.out
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# OS and editor clutter
+.DS_Store
+*:Zone.Identifier
+.vscode/
+.idea/
